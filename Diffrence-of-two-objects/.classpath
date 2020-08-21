@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="D:/bean/commons-beanutils-1.9.4.jar" sourcepath="D:/Aonline videos/Diff-master/"/>
+	<classpathentry kind="lib" path="D:/bean/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/bean/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/bean/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/bean/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="D:/bean/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/bean/jar_files/junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
